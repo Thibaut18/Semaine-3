@@ -1,0 +1,21 @@
+body {
+  background-color: #DCDCDC;
+  margin: 0;
+  font-family: times, serif;
+}
+header {
+  color: #708090
+}
+main {
+  padding-left: 20px;
+  padding-right: 20px;
+}
+.formation {
+  list-style-type: circle;
+}
+.emplois {
+  list-style-type: circle;
+}
+.stages {
+  list-style-type: circle;
+}
